@@ -1,0 +1,32 @@
+
+<html>
+<head>
+<title>gty's website</title>
+</head>
+<body bgcolor="LemonChiffon" text="black">
+<b>
+<h1>
+<center>
+TRAVEL
+</center>
+</b>
+<p>
+HALLO<br>
+This is GTY's website!
+<p>
+</h2>
+<h2>
+<a href="1.htm">my school
+</a> 
+<br>
+<a href="2.htm">my dream
+</a> 
+<br>
+<a href="3.htm">my hometown
+</a> 
+<br>
+<a href="4.htm">my future
+</a> 
+</h2>
+</body>
+</html>

@@ -1,0 +1,35 @@
+
+<html>
+<head>
+<title>my hometown</title>
+</head>
+<body bgcolor="skyblue" text="black">
+<b>
+<h2>
+<a href="index.html">return
+</a>
+<br>
+<h2>
+Rushan, Shandong, a county-level city in Shandong Province, is named after the Big Milk Mountain. In February 1941, the southern part of Wuping County and the eastern part of Haiyang County were built. In January 1945, Mou Hai County renamed Rushan County. In July 1993, Rushan County was set up as a county-level city. Rushan, Shandong lies in the southeast of Shandong Peninsula at 36 ¡ã 41¡ä-37 ¡ã 08¡ä N and 121 ¡ã 11¡ä-121 ¡ã 51¡ä e. East-west maximum horizontal distance 60 km, north-south maximum vertical distance 48 km, a total area of 1665 square km. Compared with the inland area of the same latitude, Rushan, Shandong has the characteristics of mild climate, small temperature difference, abundant rainfall, sufficient sunshine and Long frost-free period. Rushan, Shandong is making great efforts to build an eco-garden-style coastal tourist city. Successively won the title of National Environmental Protection Model City, National Garden City, etc. . All 14 towns in the city are provincial towns with beautiful environment, and 11 towns have won the honor of being national towns with beautiful environment. Rushan Blue Sky and Blue Sea, beautiful mountains and clear water, clean air, pleasant climate, is the most suitable for human living example of the city.<br>
+</h2>
+<center>
+<img src="t01e8fda23f115760cb.jpg"  alt="delicious" /width=" 600" height="600">
+</center>
+<br>
+<center>
+<i>
+Pacific oysters are the dominant species in Rushan Oyster culture, and the raft culture method is adopted. The breeding area is mainly distributed in the open water from west to Rushankou and east to Longnuankou. The oyster industry has become one of the pillars of Rushan, Shandong's fishing economy.
+</i>
+</center>
+<p>
+<center>
+<img src="t017d532358f2c322cc.jpg"  alt="sea" /width=" 600" height="600">
+</center>
+<br>
+<i>
+<center>
+sea
+</center>
+</i>
+</body>
+</html>
